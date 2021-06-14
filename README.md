@@ -1,4 +1,4 @@
-# bitfountain
+# Bitfountain
 A project for Bitfountain
 
 Instructions to run the project:
